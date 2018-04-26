@@ -1,5 +1,5 @@
-# TIG Stack
+# CIG Stack
 
-* Telegraf 1.3.3
-* Influxdb 1.0.2
-* Grafana 4.3.2
+* Chronograf 1.4.2.1
+* Influxdb latest
+* Grafana 5.0.3
